@@ -7,8 +7,8 @@ public class Test{
 		while (i <= count)
 
 		{
-			n3 = n1 + n2;
-			System.out.println(" " + n3);
+			//n3 = n1 + n2;
+			//System.out.println(" " + n3);
 			//n1 = n2;
 			//n2 = n3;
 		}
